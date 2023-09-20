@@ -14,9 +14,13 @@ Para melhor visualização dos dados, abrimos ambas as bases no programa [Orange
 1º Usamos a função “Select Rows” para filtrar apenas as denúncias que se encaixavam em critérios relacionados à condições análoga à escravidão:
 
 LIBERDADE>DIREITOS INDIVIDUAIS>CONDIÇÃO ANÁLOGA A DE ESCRAVO>RESTRIGIR A LOCOMOÇÃO DE TRABALHADOR EM RAZÃO DE DÍVIDA
+
 LIBERDADE>DIREITOS INDIVIDUAIS>CONDIÇÃO ANÁLOGA A DE ESCRAVO>SUBMETER TRABALHADOR A JORNADA EXAUSTIVA
+
 LIBERDADE>DIREITOS INDIVIDUAIS>CONDIÇÃO ANÁLOGA A DE ESCRAVO>SUBMETER TRABALHADOR A TRABALHOS FORÇADOS
+
 LIBERDADE>DIREITOS INDIVIDUAIS>CONDIÇÃO ANÁLOGA A DE ESCRAVO>SUJEITAR TRABALHADOR A CONDIÇÕES DEGRADANTES
+
 LIBERDADE>DIREITOS INDIVIDUAIS>CONDIÇÃO ANÁLOGA A DE ESCRAVO>TRANSPORTAR TRABALHADOR PARA FINS DE EXPLORAÇÃO  
 
 2º Com as bases já filtradas, fizemos dois agrupamentos diferentes, uma vez que uma mesma denúncia pode conter mais de uma violação. 
