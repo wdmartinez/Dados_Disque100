@@ -6,12 +6,11 @@ Trabalho final do Grupo 1 para a disciplina "Fundamentos e Ética do Jornalismo 
 
 ## **Bases de dados**
 
-As bases de dados utilizadas estão disponíveis no [site](https://www.gov.br/mdh/pt-br/acesso-a-informacao/dados-abertos/disque100) do Ministério dos Direitos Humanos e da Cidadania. Os documentos são relatórios com dados das denúncias recebidas por meio do Disque Direitos Humanos (Disque 100). 
-Para fins comparativos, pegamos as bases correspondentes ao primeiro semestre de [2022](https://www.gov.br/mdh/pt-br/acesso-a-informacao/dados-abertos/disque100/primeiro-semestre-de-2022) e [2023](https://www.gov.br/mdh/pt-br/acesso-a-informacao/dados-abertos/disque100/copy2_of_primeiro-semestre-de-2022) em formato.csv.
+As bases de dados utilizadas estão disponíveis no [site](https://www.gov.br/mdh/pt-br/acesso-a-informacao/dados-abertos/disque100) do Ministério dos Direitos Humanos e da Cidadania. Os documentos são relatórios com dados das denúncias recebidas por meio do Disque Direitos Humanos (Disque 100). Para fins comparativos, pegamos as bases correspondentes ao primeiro semestre de [2022](https://www.gov.br/mdh/pt-br/acesso-a-informacao/dados-abertos/disque100/primeiro-semestre-de-2022) e [2023](https://www.gov.br/mdh/pt-br/acesso-a-informacao/dados-abertos/disque100/copy2_of_primeiro-semestre-de-2022) em formato.csv.
 
 ## **Visualização dos dados**
 
-Para melhor visualização dos dados, abrimos ambas as bases no programa [Orange Data Mining](https://orangedatamining.com/) e seguimos os seguintes passos:
+Para melhor visualização dos dados, abrimos as duas bases no programa [Orange Data Mining](https://orangedatamining.com/) e seguimos os seguintes passos:
 
 1º Usamos a função “Select Rows” para filtrar apenas as denúncias que se encaixavam em critérios relacionados à condições análogas à escravidão:
 
@@ -29,7 +28,7 @@ LIBERDADE>DIREITOS INDIVIDUAIS>CONDIÇÃO ANÁLOGA A DE ESCRAVO>TRANSPORTAR TRAB
 
 3º Por meio da função “Group By”, filtramos por “violações” e selecionamos como resultado a contagem (“count”) da váriavel “Hash”, que contém o código da denúncia. Com a tabela que foi obtida, pudemos ver quantas denúncias havia para cada violação, sendo a soma de todas as denúncias o número de violações que foram denunciadas nos primeiros semestres de 2022 e 2023. 
 
-4º Com a base original, fizemos outro tipo de agrupamento, dessa vez usando os códigos de denúncias. A contagem única dos códigos resultou no número de denúncias que foram feitas com uma ou mais violações relacionadas à condição análoga a escravo em cada um dos anos.
+4º Com a base original, fizemos outro tipo de agrupamento, dessa vez usando os códigos de denúncias. A contagem única dos códigos resultou no número de denúncias que foram feitas com uma ou mais violações relacionadas à condição de trabalho análogo ao de escravo em cada um dos anos.
 
 ## **Análise dos dados**
 
