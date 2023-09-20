@@ -40,9 +40,13 @@ Além disso, o número de denúncias também cresceu. Enquanto o primeiro semest
 
 ## **Integrantes do Grupo 1:**
 Ana Carolina Andrade
+
 Giovanna Serafim
+
 Jeová Pereira
+
 Maria Eduarda Nascimento 
+
 Wanise Martinez
 
 Email para contato: wanise@gmail.com
