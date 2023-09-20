@@ -39,10 +39,6 @@ No Disque 100, há cinco tipos de violações em que denúncias relacionadas ao 
 Além disso, o número de denúncias também cresceu. Enquanto o primeiro semestre de 2022 registrou 1.096 denúncias de violações, no mesmo período de 2023 foram realizadas 1.603 denúncias, o que representa um aumento de 46,26%. É importante destacar que uma denúncia registrada no Disque 100 pode conter uma ou mais violações relacionadas à condição de trabalho análogo ao de escravo.
 
 ## **Integrantes do Grupo 1:**
-Ana Carolina Andrade
-Giovanna Serafim
-Jeová Pereira
-Maria Eduarda Nascimento 
-Wanise Martinez
+Ana Carolina Andrade, Giovanna Serafim, Jeová Pereira, Maria Eduarda Nascimento e Wanise Martinez
 
 Email para contato: wanise@gmail.com
