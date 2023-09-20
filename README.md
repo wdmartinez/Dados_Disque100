@@ -4,7 +4,9 @@ Análise de casos de violações aos direitos humanos caracterizadas como trabal
 
 Trabalho final do Grupo 1 para a disciplina "Fundamentos e Ética do Jornalismo de Dados" do Master em Jornalismo de Dados, Automação e Data Storytelling do Insper.
 
-As bases de dados que usamos estão disponíveis no site [inserir link na palavra “site”: https://www.gov.br/mdh/pt-br/acesso-a-informacao/dados-abertos/disque100 ] do Ministério dos Direitos Humanos e da Cidadania e são relatórios com dados das denúncias recebidas através do Disque Direitos Humanos (Disque 100). Para fins comparativos, pegamos as bases correspondentes ao primeiro semestre de 2022 [inserir link em “2022”: https://www.gov.br/mdh/pt-br/acesso-a-informacao/dados-abertos/disque100/primeiro-semestre-de-2022 ] e 2023 [inserir link em “2022”: https://www.gov.br/mdh/pt-br/acesso-a-informacao/dados-abertos/disque100/copy2_of_primeiro-semestre-de-2022 ] (formato .csv).
+**Bases de dados **
+As bases de dados utilizadas estão disponíveis no [site] (https://www.gov.br/mdh/pt-br/acesso-a-informacao/dados-abertos/disque100) do Ministério dos Direitos Humanos e da Cidadania e são relatórios com dados das denúncias recebidas por meio do Disque Direitos Humanos (Disque 100). 
+Para fins comparativos, pegamos as bases correspondentes ao primeiro semestre de [2022] (https://www.gov.br/mdh/pt-br/acesso-a-informacao/dados-abertos/disque100/primeiro-semestre-de-2022) e [2023] (https://www.gov.br/mdh/pt-br/acesso-a-informacao/dados-abertos/disque100/copy2_of_primeiro-semestre-de-2022) em formato.csv.
 
 Para melhor visualização dos dados, abrimos ambas as bases no programa Orange Data Mining [inserir link em “Orange Data Mining”: https://orangedatamining.com/ ]. Começamos filtrando (através da função “Select Rows”) apenas as denúncias que se encaixavam em critérios relacionados à condições análoga à escravidão:
 
