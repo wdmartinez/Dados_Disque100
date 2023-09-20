@@ -34,7 +34,7 @@ LIBERDADE>DIREITOS INDIVIDUAIS>CONDIÇÃO ANÁLOGA A DE ESCRAVO>TRANSPORTAR TRAB
 
 A análise dos dados revelou que no primeiro semestre de 2023, o Disque 100 recebeu 3.024 casos de violações aos direitos humanos caracterizadas como trabalho análogo ao de escravo. O número representa um aumento de 76,53% em relação ao total de violações dessa natureza registradas no mesmo período de 2022, que somou 1.713 registros. 
 
-No Disque 100, há cinco tipos de violações em que denúncias relacionadas ao trabalho escravo se enquadram. Durante a análise dos dados, foi encontrada uma semelhança entre os casos de violações mais registrados no primeiro semestre de 2022 e no mesmo período em 2023. Denúncias de jornadas de trabalho exaustivas foram os casos mais registrados pelos canais do Disque Direitos Humanos.
+No Disque 100, há cinco tipos de violações em que denúncias relacionadas ao trabalho escravo se enquadram. Durante a análise dos dados, foi encontrada uma semelhança entre os casos de violações mais registrados no primeiro semestre de 2022 e no mesmo período em 2023. Denúncias de jornadas de trabalho exaustivas foram os casos mais registrados nos dois períodos pelos canais do Disque Direitos Humanos.
 
 Além disso, o número de denúncias também cresceu. Enquanto o primeiro semestre de 2022 registrou 1.096 denúncias de violações, no mesmo período de 2023 foram realizadas 1.603 denúncias, o que representa um aumento de 46,26%. É importante destacar que uma denúncia registrada no Disque 100 pode conter uma ou mais violações relacionadas à condição de trabalho análogo ao de escravo.
 
