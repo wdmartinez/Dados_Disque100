@@ -4,12 +4,12 @@ Análise de casos de violações aos direitos humanos caracterizadas como trabal
 
 Trabalho final do Grupo 1 para a disciplina "Fundamentos e Ética do Jornalismo de Dados" do Master em Jornalismo de Dados, Automação e Data Storytelling do Insper.
 
-**Bases de dados**
+## **Bases de dados**
 
 As bases de dados utilizadas estão disponíveis no [site](https://www.gov.br/mdh/pt-br/acesso-a-informacao/dados-abertos/disque100) do Ministério dos Direitos Humanos e da Cidadania e são relatórios com dados das denúncias recebidas por meio do Disque Direitos Humanos (Disque 100). 
 Para fins comparativos, pegamos as bases correspondentes ao primeiro semestre de [2022](https://www.gov.br/mdh/pt-br/acesso-a-informacao/dados-abertos/disque100/primeiro-semestre-de-2022) e [2023](https://www.gov.br/mdh/pt-br/acesso-a-informacao/dados-abertos/disque100/copy2_of_primeiro-semestre-de-2022) em formato.csv.
 
-**Visualização dos dados**
+## **Visualização dos dados**
 
 Para melhor visualização dos dados, abrimos ambas as bases no programa [Orange Data Mining](https://orangedatamining.com/) e seguimos os seguintes passos:
 
@@ -31,7 +31,7 @@ LIBERDADE>DIREITOS INDIVIDUAIS>CONDIÇÃO ANÁLOGA A DE ESCRAVO>TRANSPORTAR TRAB
 
 4º Com a base original, fizemos outro tipo de agrupamento, dessa vez usando os códigos de denúncias. A contagem única dos códigos resultou no número de denúncias que foram feitas com uma ou mais violações relacionadas à condição análoga a escravo em cada um dos anos.
 
-**Análise dos dados**
+## **Análise dos dados**
 
 A análise dos dados revelou que no primeiro semestre de 2023, o Disque 100 recebeu 3.024 casos de violações aos direitos humanos caracterizadas como trabalho análogo ao de escravo. O número representa um aumento de 76,53% em relação ao total de violações dessa natureza registradas no mesmo período de 2022, que somou 1.713 registros. 
 
@@ -39,5 +39,5 @@ No Disque 100, há cinco tipos de violações em que denúncias relacionadas ao 
 
 Além disso, o número de denúncias também cresceu. Enquanto o primeiro semestre de 2022 registrou 1.096 denúncias de violações, no mesmo período de 2023 foram realizadas 1.603 denúncias, o que representa um aumento de 46,26%. É importante destacar que uma denúncia registrada no Disque 100 pode conter uma ou mais violações relacionadas à condição de trabalho análogo ao de escravo.
 
-**Formação do Grupo 1:**
+## **Grupo 1:**
 Ana Carolina Andrade, Giovanna Serafim, Jeová Pereira, Maria Eduarda Nascimento e Wanise Martinez
