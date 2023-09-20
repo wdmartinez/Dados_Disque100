@@ -38,3 +38,6 @@ Ao grupo, a análise dos dados revelou que no primeiro semestre de 2023, o Disqu
 No Disque 100, há cinco tipos de violações em que denúncias relacionadas ao trabalho escravo se enquadram. Na análise dos dados, foi encontrada uma semelhança entre os casos de violações mais registrados no primeiro semestre de 2022 e no mesmo período em 2023. Denúncias de jornadas de trabalho exaustivas foram os casos mais registrados pelos canais do Disque Direitos Humanos. 
 
 Além disso, o número de denúncias também cresceu. Enquanto o primeiro semestre de 2022 registrou 1.096 denúncias de violações, no mesmo período de 2023 foram realizadas 1.603 denúncias, o que representa um aumento de 46,26%. É importante destacar que uma denúncia registrada no Disque 100 pode conter uma ou mais violações relacionadas à condição de trabalho análogo ao de escravo.
+
+**Grupo 1:**
+Ana Carolina Andrade, Giovanna Serafim, Jeová Pereira, Maria Eduarda Nascimento e Wanise Martinez
