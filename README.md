@@ -6,7 +6,7 @@ Trabalho final do Grupo 1 para a disciplina "Fundamentos e Ética do Jornalismo 
 
 ## **Bases de dados**
 
-As bases de dados utilizadas estão disponíveis no [site](https://www.gov.br/mdh/pt-br/acesso-a-informacao/dados-abertos/disque100) do Ministério dos Direitos Humanos e da Cidadania. Os documentos são relatórios com dados das denúncias recebidas por meio do Disque Direitos Humanos (Disque 100). Para fins comparativos, pegamos as bases correspondentes ao primeiro semestre de [2022](https://www.gov.br/mdh/pt-br/acesso-a-informacao/dados-abertos/disque100/primeiro-semestre-de-2022) e [2023](https://www.gov.br/mdh/pt-br/acesso-a-informacao/dados-abertos/disque100/copy2_of_primeiro-semestre-de-2022) em formato.csv.
+As bases de dados utilizadas estão disponíveis no [site](https://www.gov.br/mdh/pt-br/acesso-a-informacao/dados-abertos/disque100) do Ministério dos Direitos Humanos e da Cidadania. Esses documentos são relatórios com dados das denúncias recebidas por meio do Disque Direitos Humanos (Disque 100). Para fins comparativos, pegamos as bases correspondentes ao primeiro semestre de [2022](https://www.gov.br/mdh/pt-br/acesso-a-informacao/dados-abertos/disque100/primeiro-semestre-de-2022) e [2023](https://www.gov.br/mdh/pt-br/acesso-a-informacao/dados-abertos/disque100/copy2_of_primeiro-semestre-de-2022) em formato.csv.
 
 ## **Visualização dos dados**
 
