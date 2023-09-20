@@ -21,6 +21,6 @@ LIBERDADE>DIREITOS INDIVIDUAIS>CONDIÇÃO ANÁLOGA A DE ESCRAVO>TRANSPORTAR TRAB
 
 2º Com as bases já filtradas, fizemos dois agrupamentos diferentes, uma vez que uma mesma denúncia pode conter mais de uma violação. 
 
-3º Por meio da função “Group By”, filtramos por “violações” e selecionamos como resultado a contagem (“count”) da váriavel “Hash”, que contém o código da denúncia). Com a tabela que foi obtida, pudemos ver quantas denúncias havia para cada violação, sendo a soma de todas as denúncias o número de violações que foram denunciadas nos primeiros semestres de 2022 e 2023. 
+3º Por meio da função “Group By”, filtramos por “violações” e selecionamos como resultado a contagem (“count”) da váriavel “Hash”, que contém o código da denúncia. Com a tabela que foi obtida, pudemos ver quantas denúncias havia para cada violação, sendo a soma de todas as denúncias o número de violações que foram denunciadas nos primeiros semestres de 2022 e 2023. 
 
 4º Com a base original, fizemos outro tipo de agrupamento, dessa vez usando os códigos de denúncias. A contagem única dos códigos resultou no número de denúncias que foram feitas com uma ou mais violações relacionadas à condição análoga a escravo em cada um dos anos.
