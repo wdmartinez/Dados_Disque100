@@ -12,6 +12,10 @@ As bases de dados utilizadas estão disponíveis no [site](https://www.gov.br/md
 
 <hr>
 
+## **Por que escolhemos essa base?**
+
+Escolhemos essa base pela ampla possibilidade de exploração de dados. Apesar de ser bastante densa, o que nos deu trabalho para filtrar os dados e chegar em pontos de importância para o que queríamos buscar como pauta, essa base tem um potencial enorme como provedora de informação de qualidade. Ainda assim, levamos em consideração que como essa é uma base com dados novos, sua utilização pede mais cuidado na hora da checagem e tratamento dos dados para, assim, garantir que as informações utilizadas na futura matéria estejam corretas e ofereçam confiabilidade aos leitores.
+
 ## **Visualização e tratamento dos dados**
 
 Para melhor visualização dos dados, abrimos as duas bases no programa [Orange Data Mining](https://orangedatamining.com/) e seguimos os seguintes passos:
