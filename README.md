@@ -63,6 +63,39 @@ Além disso, o número de denúncias também cresceu. Enquanto o primeiro semest
 
 As perguntas realizadas à base não combinam denúncias e violações, pois durante o tratamento dos dados o grupo observou que uma denúncia pode conter uma ou mais violações. Desta forma, o número de denúncias não necessariamente revela quantas violações foram registradas.
 
+O Disque 100 recebe, analisa e encaminha denúncias de violações de direitos humanos relacionadas aos seguintes grupos e/ou temas:
++ Crianças e adolescentes
+
++ Pessoas idosas
+
++ Pessoas com deficiência
+
++ Pessoas em restrição de liberdade
+
++ População LGBTQIA+
+
++ População em situação de rua
+
++ Discriminação ética ou racial
+
++ Tráfico de pessoas
+
++ Trabalho análogo à escravidão
+
++ Terra e conflitos agrários
+
++ Moradia e conflitos urbanos
+
++ Violência contra ciganos, quilombolas, indígenas e outras comunidades tradicionais
+
++ Violência policial (inclusive das forças de segurança pública no âmbito da intervenção federal no estado do Rio de Janeiro)
+
++ Violência contra comunicadores e jornalistas
+
++ Violência contra migrantes e refugiados
+
++ Pessoas com Doenças Raras
+
 ## **Integrantes do Grupo 1:**
 Ana Carolina Andrade, Giovanna Serafim, Jeová Pereira, Maria Eduarda Nascimento e Wanise Martinez
 
