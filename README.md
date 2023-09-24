@@ -23,11 +23,10 @@ Escolhemos essa base pela ampla possibilidade de exploração de dados. Apesar d
 + Quantas denúncias de trabalho análogo ao de escravo o Disque Direitos Humanos recebeu no período analisado em 2022 e 2023?
 + Qual estado mais registrou casos de violação aos direitos humanos relacionado à condição de trabalho análogo ao de escravo?
 
-## **O que mais pode ser explorado nessa base?**
+## **O que mais pode ser explorado sobre o tema nessa base?**
 
+Por conta de sua amplitude e densidade de dados, essa base permite realizar vários tipos de investigação um grande desafio porque trata de um tema socialmente relevante, mas que também exige muita investigação
 Podemos tentar explorar o perfil dos violadores dentro da pauta
-
-- Indicar que essa pauta é um grande desafio porque trata de um tema socialmente relevante, mas que também exige muita investigação
 
 ## **Visualização e tratamento dos dados**
 
@@ -60,6 +59,10 @@ No Disque 100, há **cinco tipos** de violações em que denúncias relacionadas
 Além disso, o número de denúncias também cresceu. Enquanto o primeiro semestre de 2022 registrou **1.096** denúncias de violações, no mesmo período de 2023 foram realizadas **1.603** denúncias, o que representa um aumento de **46,26%**. É importante destacar que uma denúncia registrada no Disque 100 pode conter uma ou mais violações relacionadas à condição de trabalho análogo ao de escravo.
 
 <hr>
+
+## **Importante:** 
+
+As perguntas realizadas à base não combinam denúncias e violações, pois durante o tratamento dos dados o grupo observou que uma denúncia pode conter uma ou mais violações. Desta forma, o número de denúncias não necessariamente revela quantas violações foram registradas.
 
 ## **Integrantes do Grupo 1:**
 Ana Carolina Andrade, Giovanna Serafim, Jeová Pereira, Maria Eduarda Nascimento e Wanise Martinez
