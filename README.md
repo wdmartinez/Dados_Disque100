@@ -18,14 +18,16 @@ Escolhemos essa base pela ampla possibilidade de exploração de dados. Apesar d
 
 ## **O que perguntamos aos dados?** 
 
-1- Quantos casos de violações aos direitos humanos caracterizados como trabalho análogo ao de escravo o Disque 100 registrou no primeiro semestre de 2022? E no mesmo período em 2023?
-2- Quais foram os casos de violações mais registrados no primeiro semestre de 2022 e no mesmo período em 2023? 
-3- Quantas denúncias de trabalho análogo ao de escravo o Disque Direitos Humanos recebeu no período analisado em 2022 e 2023?
-4- Qual estado mais registrou casos de violação aos direitos humanos relacionado à condição de trabalho análogo ao de escravo?
++ Quantos casos de violações aos direitos humanos caracterizados como trabalho análogo ao de escravo o Disque 100 registrou no primeiro semestre de 2022? E no mesmo período em 2023?
++ Quais foram os casos de violações mais registrados no primeiro semestre de 2022 e no mesmo período em 2023? 
++ Quantas denúncias de trabalho análogo ao de escravo o Disque Direitos Humanos recebeu no período analisado em 2022 e 2023?
++ Qual estado mais registrou casos de violação aos direitos humanos relacionado à condição de trabalho análogo ao de escravo?
 
 ## **O que mais pode ser explorado nessa base?**
 
+Podemos tentar explorar o perfil dos violadores dentro da pauta
 
+- Indicar que essa pauta é um grande desafio porque trata de um tema socialmente relevante, mas que também exige muita investigação
 
 ## **Visualização e tratamento dos dados**
 
