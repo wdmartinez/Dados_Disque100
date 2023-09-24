@@ -25,8 +25,7 @@ Escolhemos essa base pela ampla possibilidade de exploração de dados. Apesar d
 
 ## **O que mais pode ser explorado sobre o tema nessa base?**
 
-Por conta de sua amplitude e densidade de dados, essa base permite realizar vários tipos de investigação um grande desafio porque trata de um tema socialmente relevante, mas que também exige muita investigação
-Podemos tentar explorar o perfil dos violadores dentro da pauta
+Por conta de sua amplitude e densidade de dados, essa base permite realizar vários tipos de investigação socialmente relevantes, como a que escolhemos fazer. Com isso em mente, pensamos também em explorar o perfil dos violadores dentro da proposta de pré-pauta, já que a base fornece informações como raça e município do suspeito, além de relação de proximidade com a vítima.
 
 ## **Visualização e tratamento dos dados**
 
