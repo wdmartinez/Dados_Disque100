@@ -16,39 +16,7 @@ As bases de dados utilizadas estão disponíveis no [site](https://www.gov.br/md
 
 Escolhemos essa base pela ampla possibilidade de exploração de dados. Apesar de ser bastante densa, o que nos deu trabalho para filtrar os dados e chegar em pontos de importância para o que queríamos buscar como pauta, essa base tem um potencial enorme como provedora de informação de qualidade. Ainda assim, levamos em consideração que como essa é uma base com dados novos, sua utilização pede mais cuidado na hora da checagem e tratamento dos dados para, assim, garantir que as informações utilizadas na futura matéria estejam corretas e ofereçam confiabilidade aos leitores.
 
-Vale destacara que o Disque 100 é uma base que recebe, analisa e encaminha denúncias de violações de direitos humanos relacionadas aos seguintes grupos e/ou temas: 
-
-+ Crianças e adolescentes
-
-+ Pessoas idosas
-
-+ Pessoas com deficiência
-
-+ Pessoas em restrição de liberdade
-
-+ População LGBTQIA+
-
-+ População em situação de rua
-
-+ Discriminação ética ou racial
-
-+ Tráfico de pessoas
-
-+ Trabalho análogo à escravidão
-
-+ Terra e conflitos agrários
-
-+ Moradia e conflitos urbanos
-
-+ Violência contra ciganos, quilombolas, indígenas e outras comunidades tradicionais
-
-+ Violência policial (inclusive das forças de segurança pública no âmbito da intervenção federal no estado do Rio de Janeiro)
-
-+ Violência contra comunicadores e jornalistas
-
-+ Violência contra migrantes e refugiados
-
-+ Pessoas com Doenças Raras
+Vale destacar que o Disque 100 analisa e encaminha denúncias de violações de direitos humanos relacionadas aos seguintes grupos e/ou temas: crianças e adolescentes; pessoas idosas; pessoas com deficiência; pessoas em restrição de liberdade; população LGBTQIA+; população em situação de rua; discriminação ética ou racial; tráfico de pessoas; trabalho análogo à escravidão; terra e conflitos agrários; moradia e conflitos urbanos; violência contra ciganos, quilombolas, indígenas e outras comunidades tradicionais; violência policial (inclusive das forças de segurança pública no âmbito da intervenção federal no estado do Rio de Janeiro); violência contra comunicadores e jornalistas; violência contra migrantes e refugiados e pessoas com doenças raras.
 
 ## **O que perguntamos aos dados?** 
 
