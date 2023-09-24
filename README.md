@@ -12,7 +12,7 @@ As bases de dados utilizadas estão disponíveis no [site](https://www.gov.br/md
 
 <hr>
 
-## **Visualização dos dados**
+## **Visualização e tratamento dos dados**
 
 Para melhor visualização dos dados, abrimos as duas bases no programa [Orange Data Mining](https://orangedatamining.com/) e seguimos os seguintes passos:
 
