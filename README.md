@@ -16,6 +16,17 @@ As bases de dados utilizadas estão disponíveis no [site](https://www.gov.br/md
 
 Escolhemos essa base pela ampla possibilidade de exploração de dados. Apesar de ser bastante densa, o que nos deu trabalho para filtrar os dados e chegar em pontos de importância para o que queríamos buscar como pauta, essa base tem um potencial enorme como provedora de informação de qualidade. Ainda assim, levamos em consideração que como essa é uma base com dados novos, sua utilização pede mais cuidado na hora da checagem e tratamento dos dados para, assim, garantir que as informações utilizadas na futura matéria estejam corretas e ofereçam confiabilidade aos leitores.
 
+## **O que perguntamos aos dados?** 
+
+1- Quantos casos de violações aos direitos humanos caracterizados como trabalho análogo ao de escravo o Disque 100 registrou no primeiro semestre de 2022? E no mesmo período em 2023?
+2- Quais foram os casos de violações mais registrados no primeiro semestre de 2022 e no mesmo período em 2023? 
+3- Quantas denúncias de trabalho análogo ao de escravo o Disque Direitos Humanos recebeu no período analisado em 2022 e 2023?
+4- Qual estado mais registrou casos de violação aos direitos humanos relacionado à condição de trabalho análogo ao de escravo?
+
+## **O que mais pode ser explorado nessa base?**
+
+
+
 ## **Visualização e tratamento dos dados**
 
 Para melhor visualização dos dados, abrimos as duas bases no programa [Orange Data Mining](https://orangedatamining.com/) e seguimos os seguintes passos:
