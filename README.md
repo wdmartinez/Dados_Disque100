@@ -49,7 +49,7 @@ LIBERDADE>DIREITOS INDIVIDUAIS>CONDIÇÃO ANÁLOGA A DE ESCRAVO>TRANSPORTAR TRAB
 
 + 4º - Com a base original, fizemos outro tipo de agrupamento, dessa vez usando os códigos de denúncias. A contagem única dos códigos resultou no número de denúncias que foram feitas com uma ou mais violações relacionadas à condição de trabalho análogo ao de escravo em cada um dos anos.
 
-+ 5º - Usando a mesma lógica anterior, agrupamos por "UF" para analisar aonde os casos aumentaram entre o primeiro de semestre de 2022 e 2023. Por meio da ferramenta [Flourish](https://flourish.studio/), plotamos os dados em um mapa coroplético para melhor visualização da evolução das denúncias. O mapa pode ser acessado por [aqui](https://public.flourish.studio/visualisation/15129320)
++ 5º - Usando a mesma lógica anterior, agrupamos por "UF" para analisar aonde os casos aumentaram entre o primeiro de semestre de 2022 e 2023. Por meio da ferramenta [Flourish](https://flourish.studio/), plotamos os dados em um mapa coroplético para melhor visualização da evolução das denúncias. O mapa pode ser acessado por [aqui](https://public.flourish.studio/visualisation/15129320).
 
 <hr>
 
