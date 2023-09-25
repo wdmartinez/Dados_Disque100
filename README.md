@@ -65,6 +65,8 @@ Além disso, o número de denúncias também cresceu. Enquanto o primeiro semest
 
 Em relação às denúncias, São Paulo e Minas Gerais foram os estados que mais registraram denúncias no primeiro semestre de 2022 e 2023. O resultado pode ser conferido no mapa coroplético como indicado acima.
 
+Tendo em vista a riqueza e novidade dos dados, é possível explorar pautas que tratem não só sobre o aumento nos casos de violações e denúncias, mas que também utilize os dados para produzir reportagens mais aprofundadas com personagens, por exemplo. Um ponto interessante seria buscar saber o que ocorre após as denúncias serem registradas no Disque 100 e quantos casos se transformam em resgate de pessoas em condições análogas ao trabalho de escravo, por exemplo.
+
 <hr>
 
 ## **Importante!** 
