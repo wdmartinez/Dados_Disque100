@@ -63,11 +63,11 @@ Além disso, o número de denúncias também cresceu. Enquanto o primeiro semest
 
 <hr>
 
-## **Importante:** 
+## **Importante!** 
 
 As perguntas realizadas à base não combinam denúncias e violações, pois durante o tratamento dos dados o grupo observou que uma denúncia pode conter uma ou mais violações. Desta forma, o número de denúncias não necessariamente revela quantas violações foram registradas.
 
-## **Integrantes do Grupo 1:**
+## **Integrantes do Grupo 1**
 Ana Carolina Andrade, Giovanna Serafim, Jeová Pereira, Maria Eduarda Nascimento e Wanise Martinez
 
 Email para contato: wanise@gmail.com
